@@ -1,0 +1,29 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+body {
+    background-color: Lightgray;
+} 
+
+.qr__container {
+    background-color: white;
+    width: 40%;
+    height: 60%;
+    padding: 10px;
+}
+
+.qr__code__image {
+   width: 100%;
+   height: auto; 
+}
+
+.qr__code__prompt {
+    text-align: center;
+    font-size: 15px;
+}
