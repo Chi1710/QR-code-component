@@ -7,8 +7,10 @@
     color: hsl(228, 45%, 44%); 
 }
 
+
 body {
     background-color: Lightgray;
+    font-family: 'Outfit', sans-serif;
 } 
 
 .qr__container {
@@ -26,4 +28,9 @@ body {
 .qr__code__prompt {
     text-align: center;
     font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
+
+.qr__code__prompt h2 {
+    color: Darkblue;
 }
